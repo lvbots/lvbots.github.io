@@ -16,3 +16,4 @@ meeting information.
 Some group links:
 
 * [Meetup page](http://www.meetup.com/lvbots/) - **RSVP here to join the next meeting!**
+* [LVBots robot competitions](events)

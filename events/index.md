@@ -7,6 +7,7 @@ title: LVBots - Events
 * [Maze solving competition](http://www.pololu.com/blog/362/video-lvbots-may-2014-maze-solving-competition) - May 29, 2014
 * [Dead reckoning competition](http://www.pololu.com/blog/312/lvbots-march-2014-dead-reckoning-competition) - Mar 6, 2014
 * [Mini-sumo competition](http://www.pololu.com/blog/224/highlights-from-the-lvbots-september-2013-mini-sumo-competition) - Sep 9, 2014
+* [Line following competition](2013-07-11_line_following) - July 11, 2013
 * LVBots Challenge 4.5 - Dec 6, 2008
 * LVBots Challenge 4.0 - May 31, 2007
 * <a href="lvbc3_5">LVBots Challenge 3.5</a> - Dec 1, 2007

@@ -68,6 +68,6 @@ title: LVBots - Mini-Sumo Rules
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The robots are entangled or otherwise deadlocked.</p>
 <p>The referee may choose to end a round and choose the winnner if:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Smoke, fire, damage or any other violation has occurred.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No progress is likely to be made even if the round is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restarted.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No progress is likely to be made even if the round is restarted.<br>
 </p>
 

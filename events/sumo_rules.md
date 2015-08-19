@@ -38,7 +38,7 @@ title: LVBots - Mini-Sumo Rules
   Use of Suction, Magnets and/or Sticky wheels as a way to increase traction is not permitted in LVBots Mini-Sumo tournaments. To determine whether a robot's wheels are too sticky the robot will be placed on a piece of paper and lifted up. If the paper lifts with the robot the wheels are too sticky.</p>
 
 <p><b>The Ring</b><br>
-  The ring is a large flat disc made of a smooth rigid material such as wood aluminum or steel. The top surface is painted black except for a white border which is approximately 2.54cm (1 inch) wide. Two starting lines in the middle are brown. The ring will be approximately 77cm in diameter. </p>
+  The ring is a large flat disc made of a smooth rigid material such as wood, aluminum, or steel. The top surface is painted black except for a white border which is approximately 2.54cm (1 inch) wide. Two starting lines in the middle are brown. The ring will be approximately 77cm in diameter. </p>
 
 <p><b>The Contest</b><br>
   Our Mini-Sumo tournament will be conducted as a double-elimination tournament.  All robots will be inspected to verify that they comply with the stated rules.</p>

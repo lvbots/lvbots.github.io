@@ -4,7 +4,7 @@ title: LVBots - Mini-Sumo Rules
 ---
 
 <p><b>Overview</b><br>
-  Two autonomous robots are place in a ring. The robots try to avoid falling out of or being pushed out of the ring. The first robot that touches outside the ring loses the round. The first robot to win two rounds wins the match.</p>
+  Two autonomous robots are placed in a ring. The robots try to avoid falling out of or being pushed out of the ring. The first robot that touches outside the ring loses the round. The first robot to win two rounds wins the match.</p>
 
 <p><b>Mini-Sumo Robots</b><br>
   Autonomous Sumo robots are self-propelled and self-controlled, without tethers. After positioning and starting the robot, no remote control, power, positioning, or other help can be provided. The robot must care for itself until the round ends.</p>

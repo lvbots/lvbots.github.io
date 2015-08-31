@@ -4,7 +4,7 @@ title: LVBots - Mini-Sumo Rules
 ---
 
 <p><b>Overview</b><br>
-  Two autonomous robots are place in a ring. The robots try to avoid falling out of or being pushed out of the ring. The first robot that touches outside the ring loses the round. The first robot to win two rounds wins the match.</p>
+  Two autonomous robots are placed in a ring. The robots try to avoid falling out of or being pushed out of the ring. The first robot that touches outside the ring loses the round. The first robot to win two rounds wins the match.</p>
 
 <p><b>Mini-Sumo Robots</b><br>
   Autonomous Sumo robots are self-propelled and self-controlled, without tethers. After positioning and starting the robot, no remote control, power, positioning, or other help can be provided. The robot must care for itself until the round ends.</p>
@@ -38,7 +38,7 @@ title: LVBots - Mini-Sumo Rules
   Use of Suction, Magnets and/or Sticky wheels as a way to increase traction is not permitted in LVBots Mini-Sumo tournaments. To determine whether a robot's wheels are too sticky the robot will be placed on a piece of paper and lifted up. If the paper lifts with the robot the wheels are too sticky.</p>
 
 <p><b>The Ring</b><br>
-  The ring is a large flat disc made of a smooth rigid material such as wood aluminum or steel. The top surface is painted black except for a white border which is approximately 2.54cm (1 inch) wide. Two starting lines in the middle are brown. The ring will be approximately 77cm in diameter. </p>
+  The ring is a large flat disc made of a smooth rigid material such as wood, aluminum, or steel. The top surface is painted black except for a white border which is approximately 2.54cm (1 inch) wide. Two starting lines in the middle are brown. The ring will be approximately 77cm in diameter. </p>
 
 <p><b>The Contest</b><br>
   Our Mini-Sumo tournament will be conducted as a double-elimination tournament.  All robots will be inspected to verify that they comply with the stated rules.</p>
@@ -68,6 +68,6 @@ title: LVBots - Mini-Sumo Rules
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The robots are entangled or otherwise deadlocked.</p>
 <p>The referee may choose to end a round and choose the winnner if:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Smoke, fire, damage or any other violation has occurred.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No progress is likely to be made even if the round is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restarted.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No progress is likely to be made even if the round is restarted.<br>
 </p>
 

@@ -11,20 +11,16 @@ Get all the rings off of your side of the field.
 
 <p>For the first competition the field will consist of a 4x4' square that is divided into two areas. The robot’s area will be 4’x3’. The floor of the field will be whiteboard material and the walls will be light coloured 1/2" plywood approximately 5 3/4" high. Dividing the two areas of the course there will be another piece of plywood suspended approximately 2.5" off the bottom of the field and stretching all the way from one wall to the opposite wall. A line of 3/4" black electrical tape will be placed parallel to the barrier on the floor of the field next to the divider on the robot's side. A diagram of the field is given below:
 
-<div align="center">
-<img src="lvb_rings_1_01.jpg">
-</div>
+![](lvb_rings_1_01.jpg)
+
 
 <p>Here is an early prototype of the field.  Note that it does not have the black tape marking the divider, but that will be added along with making the frame sturdier.
 
-<div align="center">
-<img src="lvb_rings_1_02.jpg">
-</div>
+![](lvb_rings_1_02.jpg)
 
 <p>The rings will be hollow plastic donut shaped rings that might vary in sizes and color. The largest ring will be no bigger than 5" in outer diameter and 1 1/2" in height and weigh no more than 35g. The smallest ring will be at least 2.5" in diameter and 3/4" tall and weigh around 15g.  For the first iteration of the competition we will be using only the smallest ring size.  A picture of the smallest ring/donut is given below:
-<div align="center">
-<img src="lvb_rings_1_03.jpg">
-</div>
+
+![](lvb_rings_1_03.jpg)
 
 ## Setup
 

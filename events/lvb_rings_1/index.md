@@ -26,6 +26,8 @@ Get all the rings off of your side of the field.
 <img src="lvb_rings_1_03.jpg">
 </div>
 
+<br>
+
 ## Setup
 <p>Before the start of each robot's turn 6 rings will be placed on the field in predetermined locations. One ring will be touching the wall opposite the divider and two other rings will be touching the side walls (one touching each wall). A picture of the starting layout will be provided and measurements can be given.
 

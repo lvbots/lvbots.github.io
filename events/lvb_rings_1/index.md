@@ -13,9 +13,13 @@ For the first competition the field will consist of a 4x4' square that is divide
 
 <div align="center">
 <img src="lvb_rings_1_01.jpg">
+<img src="lvb_rings_1_02.jpg">
 </div>
 
 The rings will be hollow plastic donut shaped rings that might vary in sizes and color. The largest ring will be no bigger than 5" in outer diameter and 1 1/2" in height and weigh no more than 35g. The smallest ring will be at least 2.5" in diameter and 3/4" tall and weigh around 15g.
+<div align="center">
+<img src="lvb_rings_1_03.jpg">
+</div>
 
 ## Setup
 Before the start of each robot's turn 6 rings will be placed on the field in predetermined locations. One ring will be touching the wall opposite the divider and two other rings will be touching the side walls (one touching each wall). A picture of the starting layout will be provided and measurements can be given.

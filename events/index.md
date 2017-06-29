@@ -27,4 +27,4 @@ The rules for the different events are available here:
 * [Line Following Rules](line_following_rules.html)
 * [Line Maze Rules](line_maze_rules.html)
 * [Dead Reckoning Rules](dead_reckoning_rules.pdf)
-* [Rings/Donut Rules](rings_donut.html)
+* <a href="lvb_rings_1">Rings/Donut Rules</a>

@@ -12,11 +12,11 @@ title: LVBots - Events
 * [Line following competition](2013-07-11_line_following) - July 11, 2013
 * LVBots Challenge 4.5 - Dec 6, 2008
 * LVBots Challenge 4.0 - May 31, 2007
-* <a href="lvbc3_5">LVBots Challenge 3.5</a> - Dec 1, 2007
-* <a href="lvbc3_0">LVBots Challenge 3.0</a> - May 5, 2007
-* <a href="lvbc2_5">LVBots Challenge 2.5</a> - Dec 2, 2006
-* <a href="lvbc2_0">LVBots Challenge 2.0</a> - May 6, 2006
-* <a href="lvbc1_5">LVBots Challenge 1.5</a> - November 12, 2005
+* [LVBots Challenge 3.5](lvbc3_5) - Dec 1, 2007
+* [LVBots Challenge 3.0](lvbc3_0) - May 5, 2007
+* [LVBots Challenge 2.5](lvbc2_5) - Dec 2, 2006
+* [LVBots Challenge 2.0](lvbc2_0) - May 6, 2006
+* [LVBots Challenge 1.5](lvbc1_5) - November 12, 2005
 * LVBots Challenge 1.0 - May 14, 2005
 
 ## Contest rules
@@ -27,4 +27,4 @@ The rules for the different events are available here:
 * [Line Following Rules](line_following_rules.html)
 * [Line Maze Rules](line_maze_rules.html)
 * [Dead Reckoning Rules](dead_reckoning_rules.pdf)
-* <a href="lvb_rings_1">Rings/Donut Rules</a>
+* [Rings/Donuts Rules](rings_donuts_rules)

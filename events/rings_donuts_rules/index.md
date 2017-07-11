@@ -1,3 +1,6 @@
+redirect_from: "/rings_donut/"
+
+
 ---
 layout: default
 title: LVBots - Rings/Donut Rules

@@ -1,5 +1,6 @@
+---
 redirect_from: "/rings_donut/"
-
+---
 
 ---
 layout: default

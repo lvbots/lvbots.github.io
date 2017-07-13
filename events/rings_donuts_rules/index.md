@@ -29,7 +29,7 @@ The rings will be hollow plastic donut shaped rings that might vary in sizes and
 
 Before the start of each robot's turn 6 rings will be placed on the field in predetermined locations. One ring will be touching the wall opposite the divider and two other rings will be touching the side walls (one touching each wall). A picture of the starting layout will be provided and measurements can be given.
 
-The robot can be placed anywhere on its side as long as it is not touching any wall or ring. Once the robot is placed a judge will count down time for the robot and timers to start. The robot should have some way of being started (i.e.push button) at the end of the countdown. Each robot will be given 1 minute to get all the rings off its side of the field.
+The robot can be placed anywhere on its side as long as it is not touching any ring. Once the robot is placed a judge will count down time for the robot and timers to start. The robot should have some way of being started (i.e.push button) at the end of the countdown. Each robot will be given 1 minute to get all the rings off its side of the field.
 
 ## Scoring
 

@@ -1,0 +1,18 @@
+---
+layout: default
+title: LVBots - Advanced Line Following Rules
+---
+
+We will be running competitions on both the new (advanced) and old (classic) courses. Your robot(s) can compete on either or both.
+
+This is the current plan for the advanced course:
+
+![](course.png)
+
+This is the classic course:
+
+![](classic.jpg)
+
+Each course also has a respective mirrored version that your robot will have to navigate as well.
+
+Some details are still TBD, but otherwise the [original line following rules](/events/line_following_rules) should apply.

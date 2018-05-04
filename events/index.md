@@ -23,8 +23,9 @@ title: LVBots - Events
 
 The rules for the different events are available here:
 
-* [Mini-Sumo Rules](sumo_rules.html)
-* [Line Following Rules](line_following_rules.html)
-* [Line Maze Rules](line_maze_rules.html)
+* [Mini-Sumo Rules](sumo_rules)
+* [Line Following Rules](line_following_rules)
+* [Line Maze Rules](line_maze_rules)
 * [Dead Reckoning Rules](dead_reckoning_rules.pdf)
 * [Rings/Donuts Rules](rings_donuts_rules)
+* [Advanced Line Following Rules](advanced_line_following_rules)

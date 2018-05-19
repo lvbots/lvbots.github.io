@@ -9,7 +9,7 @@ This is the advanced course:
 
 ![](course.png)
 
-![](course_photo.png)
+![](course_photo.jpg)
 
 This is the classic course:
 

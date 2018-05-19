@@ -5,9 +5,11 @@ title: LVBots - Advanced Line Following Rules
 
 We will be running competitions on both the new (advanced) and old (classic) courses. Your robot(s) can compete on either or both.
 
-This is the current plan for the advanced course:
+This is the advanced course:
 
 ![](course.png)
+
+![](course_photo.png)
 
 This is the classic course:
 

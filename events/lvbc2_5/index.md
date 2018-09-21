@@ -7,19 +7,19 @@ We had 21 robots competing in the 4 different events, including our new Pool Rac
 
 We would like to thank the following sponsors for their gracious prize dontations:
 
-[![Pololu](/sponsor_banners/pololu.gif)](http://www.pololu.com/)
+[![Pololu](/sponsor_banners/pololu.gif)](https://www.pololu.com/)
 
-[![Solarbotics](/sponsor_banners/solarbotics.gif)](http://www.solarbotics.com/)
+[![Solarbotics](/sponsor_banners/solarbotics.gif)](https://www.solarbotics.com/)
 
-[![Parallalx](/sponsor_banners/parallax.gif)](http://www.parallax.com/)
+[![Parallalx](/sponsor_banners/parallax.gif)](https://www.parallax.com/)
 
 [![Wright Hobbies Robotics](/sponsor_banners/wright.gif)](http://www.wrighthobbies.net/)
 
 [![Nubotics](/sponsor_banners/nubotics.gif)](http://www.nubotics.com/)
 
-[![Make: Magazine](/sponsor_banners/make.gif)](http://www.makezine.com/)
+[![Make: Magazine](/sponsor_banners/make.gif)](https://www.makezine.com/)
 
-[![Norland Research](/sponsor_banners/norland.gif)](http://www.smallrobot.com/)
+[![Norland Research](/sponsor_banners/norland.gif)](https://www.smallrobot.com/)
 
 <div align="center"><font color="red" size="+2">Line Following Results</font></div>
 
@@ -31,12 +31,12 @@ The line following track had 12 straight tiles, and 24 curve tiles, for a total 
 
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Best Time</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">43.44 seconds</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">44.54 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=33">Quixo</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">1:35</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">43.44 seconds</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">44.54 seconds</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=33">Quixo</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">1:35</td></tr>
 <tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center">JG 1000</td><td align="center">Jacob</td><td align="center">2:02</td></tr>
-<tr><td align="center"></td><td align="center">Got the Shakes</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=4">Mike Griffith</a></td><td align="center">3:23</td></tr>
-<tr><td align="center"></td><td align="center">Big Ugly</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">Lost the line</td></tr>
+<tr><td align="center"></td><td align="center">Got the Shakes</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=4">Mike Griffith</a></td><td align="center">3:23</td></tr>
+<tr><td align="center"></td><td align="center">Big Ugly</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">Lost the line</td></tr>
 </table>
 
 
@@ -46,13 +46,13 @@ As we did last competition, the preliminary events were a chance for every bot t
 Then the top 4 from the preliminaries went on to a single elimination bracket of best 2 of 3 battles.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Preliminary Wins</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">4 wins</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=32">Bucky 2.0</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 wins</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">6 wins</td></tr>
-<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center">Red</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=4">Mike Griffith</a></td><td align="center">4 wins</td></tr>
-<tr><td align="center"></td><td align="center">DK2</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=24">Dennis Krostoski</a></td><td align="center">2 wins</td></tr>
-<tr><td align="center"></td><td align="center">B-Dog</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=19">Brandon Hjelstom</a></td><td align="center">1 win</td></tr>
-<tr><td align="center"></td><td align="center">Quarto</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">0 wins</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">4 wins</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=32">Bucky 2.0</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 wins</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">6 wins</td></tr>
+<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center">Red</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=4">Mike Griffith</a></td><td align="center">4 wins</td></tr>
+<tr><td align="center"></td><td align="center">DK2</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=24">Dennis Krostoski</a></td><td align="center">2 wins</td></tr>
+<tr><td align="center"></td><td align="center">B-Dog</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=19">Brandon Hjelstom</a></td><td align="center">1 win</td></tr>
+<tr><td align="center"></td><td align="center">Quarto</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">0 wins</td></tr>
 </table>
 
 <p><p><div align="center"><font color="red" size="+2">Line Maze Results</font></div>
@@ -62,9 +62,9 @@ All three also showed a sign of realization of solving the maze, so all received
 This event was down to one half a second between first and second place.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Time</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=40">Square</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">0:31 seconds</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Mini Mazer</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">0:32 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=31">Quoridor</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">2:38</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=40">Square</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">0:31 seconds</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Mini Mazer</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">0:32 seconds</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=31">Quoridor</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">2:38</td></tr>
 </table>
 
 <p><p><div align="center"><font color="red" size="+2">Pool Race Results</font></div>
@@ -79,9 +79,9 @@ most exciting event of the day.
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td></tr>
 <tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Dog's Pants</td><td align="center">Ben Schmidel</td><td align="center">5 laps on complex course</a></td></tr>
 <tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Her Pleasure</a></td><td align="center">Nat Luvera</a></td><td align="center">3 laps on simple course</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center">Centrifugal Force</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 laps on simple course</td></tr>
-<tr><td align="center"><b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=43">Pool Boy</a></a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=11">Dave Leblanc</a></a></td><td align="center">3/4 lap on simple course</td></tr>
-<tr><td align="center"><b></td><td align="center">Wiggles the 2nd</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">1/2 lap on simple course</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center">Centrifugal Force</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 laps on simple course</td></tr>
+<tr><td align="center"><b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=43">Pool Boy</a></a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=11">Dave Leblanc</a></a></td><td align="center">3/4 lap on simple course</td></tr>
+<tr><td align="center"><b></td><td align="center">Wiggles the 2nd</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">1/2 lap on simple course</td></tr>
 </table>
 
 <p><p><div align="center"><font color="red" size="+2">Event pictures</font></div>

@@ -6,11 +6,11 @@ title: LVBots Challenge 3.0 - May 5, 2007
 Our fifth robot competition was held back at Rancho High School in Las Vegas.
 We had 24 robots competing in the 5 different events, including our new Dead Reckoning competetion.
 
-The Best Of Show award went to <a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a> for Road Rage.
+The Best Of Show award went to <a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a> for Road Rage.
 
 We would like to thank the following sponsors for their gracious prize dontations:
 
-[![Pololu](/sponsor_banners/pololu.gif)](http://www.pololu.com/)
+[![Pololu](/sponsor_banners/pololu.gif)](https://www.pololu.com/)
 
 <div align="center"><font color="red" size="+2">Mini Sumo Results</font></div>
 
@@ -20,15 +20,15 @@ Then the top 4 from the preliminaries went on to a single elimination bracket of
 
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Preliminary Wins</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">7 wins</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">7 wins</td></tr>
-<tr><td align="center"><b><font color="red">3th Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=58">Invid</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">5 wins</td></tr>
-<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=53">Borg</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=53">Kely Small</a></td><td align="center">6 wins</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=60">Striker</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=55">Josh Bosley</a></td><td align="center">3 wins</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=32">Bucky 2.0</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 wins</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=49">Flat Spat</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=53">Kely Small</a></td><td align="center">3 wins</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=57">Dory</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">2 wins</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=29">Mr. Happy</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">0 wins</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">7 wins</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">7 wins</td></tr>
+<tr><td align="center"><b><font color="red">3th Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=58">Invid</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">5 wins</td></tr>
+<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=53">Borg</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=53">Kely Small</a></td><td align="center">6 wins</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=60">Striker</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=55">Josh Bosley</a></td><td align="center">3 wins</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=32">Bucky 2.0</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">3 wins</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=49">Flat Spat</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=53">Kely Small</a></td><td align="center">3 wins</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=57">Dory</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">2 wins</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=29">Mr. Happy</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">0 wins</td></tr>
 </table>
 
 <p><p><div align="center"><font color="red" size="+2">Line Following Results</font></div>
@@ -40,13 +40,13 @@ The line following track had 12 straight tiles, and 24 curve tiles, for a total 
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Best Time</b></td></tr>
 
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=59">Jack Rabbit</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">41.50 seconds</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">44.47 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=28">Blue Lightning</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">53.11 seconds</td></tr>
-<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=33">Quixo</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">1:40.76</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=59">Jack Rabbit</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=54">Jon Bosley</a></td><td align="center">41.50 seconds</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">44.47 seconds</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=28">Blue Lightning</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">53.11 seconds</td></tr>
+<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=33">Quixo</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">1:40.76</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">DNF</td></tr>
 <tr><td align="center"></td><td align="center">Mr. Wiggles</td><td align="center">Nicholas Bliech</td><td align="center">DNF</td></tr>
-<tr><td align="center"></td><td align="center">Big Ugly</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"></td><td align="center">Big Ugly</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">DNF</td></tr>
 </table>
 
 
@@ -55,10 +55,10 @@ We had 4 competitors in the Line Maze event.
 The first 3 bots showed a sign of realization of solving the maze, so all received the 0:10 bonus removes from their time.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Time</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">CD Mazer</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">7.43 seconds</td></tr>
-<tr><td align="center"><b><font color="red">2rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=31">Quoridor</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">31.34 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=40">Square</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:08.92 seconds</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=52">Black Pearl</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=53">Kelly Small</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">CD Mazer</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">7.43 seconds</td></tr>
+<tr><td align="center"><b><font color="red">2rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=31">Quoridor</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=21">Scott Garrabrant</a></td><td align="center">31.34 seconds</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=40">Square</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:08.92 seconds</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=52">Black Pearl</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=53">Kelly Small</a></td><td align="center">DNF</td></tr>
 </table>
 
 
@@ -67,7 +67,7 @@ Our second Pool Race only brought 2 robots, but they bothg ran very well.
 Bots started equally spaced around the track, and had to complete laps around the track, while hopefully passing other racers.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Road Rage</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:11.66</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Road Rage</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:11.66</td></tr>
 <tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Dog's Pants</td><td align="center">Ben Schmidel</td><td align="center">DNF</a></td></tr>
 </table>
 
@@ -77,7 +77,7 @@ We created a new event for this competition, a Dead Reckoning contest.
 Bots needed to drive around 3 bottles without knocking them over, then return to the starting spot as accurately as possible, and as quickly as possible.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Genesys II</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">5.5" - 53.41 seconds</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Genesys II</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">5.5" - 53.41 seconds</td></tr>
 <tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Dead Vex</td><td align="center">Eric</td><td align="center">DNF</a></td></tr>
 </table>
 

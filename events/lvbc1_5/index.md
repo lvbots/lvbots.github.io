@@ -11,7 +11,7 @@ The small line following track had 2 straight tiles, and 12 curve tiles, for a t
 The large line following track had 12 straight tiles, adn 24 curve tiles, for a total 3 lap length of about 2821 cm.
 Each line followers best speed is listed.
 
-Prizes were graciously donated by [Pololu Robotics](http://www.pololu.com)
+Prizes were graciously donated by [Pololu Robotics](https://www.pololu.com)
 
 <table>
 <tr>

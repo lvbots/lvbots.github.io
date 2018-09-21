@@ -5,11 +5,11 @@ title: LVBots Challenge 3.5 - Dec 1, 2007
 
 <p>Our sixth robot competition was held back at Jack Lund Schofield Middle School in Las Vegas.
 We had 28 robots competing in the 6 different events, including our new Walking competetion.
-<p>The Best Of Show award went to <a href="http://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a> for <a href="http://www.lvbots.org/gallery/bot.php?id=66">Disco Boy</a>.
+<p>The Best Of Show award went to <a href="https://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a> for <a href="https://www.lvbots.org/gallery/bot.php?id=66">Disco Boy</a>.
 
 We would like to thank the following sponsors for their gracious prize dontations:
 
-[![Pololu](/sponsor_banners/pololu.gif)](http://www.pololu.com/)
+[![Pololu](/sponsor_banners/pololu.gif)](https://www.pololu.com/)
 
 <p><p><div align="center"><font color="red" size="+2">Line Following Results</font></div>
 We had 13 robots competing in this event.
@@ -20,18 +20,18 @@ The line following track had 12 straight tiles, and 24 curve tiles, for a total 
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Best Time</b></td></tr>
 
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Puck</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">39.47 seconds</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">42.73 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">43.90 seconds</td></tr>
-<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center">Big Ugly</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">50.05 seconds</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Puck</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">39.47 seconds</td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=41">What's That Smell?</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">42.73 seconds</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=2">Laser</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">43.90 seconds</td></tr>
+<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center">Big Ugly</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=12">Candice Kamachi</a></td><td align="center">50.05 seconds</td></tr>
 <tr><td align="center"></td><td align="center">Oscar</td><td align="center"></td><td align="center">59.97 seconds</td></tr>
 <tr><td align="center"></td><td align="center">No Redeeming Features</td><td align="center"></td><td align="center">1:00.60</td></tr>
-<tr><td align="center"></td><td align="center">Poser</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:02.63</td></tr>
+<tr><td align="center"></td><td align="center">Poser</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">1:02.63</td></tr>
 <tr><td align="center"></td><td align="center">Van Gogh</td><td align="center">Ben Schmidel</td><td align="center">1:53.54</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=64">Anthem</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=61">Jamie Gorr</a></td><td align="center">2:30.09</td></tr>
-<tr><td align="center"></td><td align="center">Shoe</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=64">Anthem</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=61">Jamie Gorr</a></td><td align="center">2:30.09</td></tr>
+<tr><td align="center"></td><td align="center">Shoe</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">DNF</td></tr>
 <tr><td align="center"></td><td align="center">Sled</a></td><td align="center"></td><td align="center">DNF</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=65">Rod</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=65">Rod</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a></td><td align="center">DNF</td></tr>
 <tr><td align="center"></td><td align="center">Story</td><td align="center"></td><td align="center">DNF</td></tr>
 </table>
 
@@ -41,10 +41,10 @@ We had 4 entrants in the mini sumo event.
 The bots were randomly selected for a single elimination bracket of best 2 of 3 battles.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b></b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center"></td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Ultra Violet</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center"></td></tr>
 <tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">R1</td><td align="center"></td><td align="center"></td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center"></td></tr>
-<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=29">Mr. Happy</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center"></td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=9">Happy Jr.</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center"></td></tr>
+<tr><td align="center"><b><font color="red">4th Place</font></b></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=29">Mr. Happy</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center"></td></tr>
 </table>
 
 
@@ -53,10 +53,10 @@ We had 4 competitors in our first ever Walking event.
 Bots had to walk 3 feet to the edge of a board.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Time</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Seis</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">6.45 seconds</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Seis</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">6.45 seconds</td></tr>
 <tr><td align="center"><b><font color="red">2rd Place</font></b></td><td align="center">WTW</td><td align="center"></td><td align="center">11.73 seconds</td></tr>
-<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center">4-1</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">27.81 seconds</td></tr>
-<tr><td align="center"></td><td align="center"><a href="http://www.lvbots.org/gallery/bot.php?id=66">Disco Boy</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"><b><font color="red">3rd Place</font></b></td><td align="center">4-1</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">27.81 seconds</td></tr>
+<tr><td align="center"></td><td align="center"><a href="https://www.lvbots.org/gallery/bot.php?id=66">Disco Boy</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=60">Bruce Romeo</a></td><td align="center">DNF</td></tr>
 </table>
 
 
@@ -65,19 +65,19 @@ We modified our Dead Reckoning contest for this competition to have the bot driv
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td></tr>
 <tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Van Gogh</a></td><td align="center">Ben Schmidel</td><td align="center">7.35" - 1:08.25</td></tr>
-<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Poser</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">23" - 49.50 seconds</a></td></tr>
-<tr><td align="center"></td><td align="center">CD Bot</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">DNF</a></td></tr>
-<tr><td align="center"></td><td align="center">Puck</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">DNF</a></td></tr>
+<tr><td align="center"><b><font color="red">2nd Place</font></b></td><td align="center">Poser</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center">23" - 49.50 seconds</a></td></tr>
+<tr><td align="center"></td><td align="center">CD Bot</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">DNF</a></td></tr>
+<tr><td align="center"></td><td align="center">Puck</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">DNF</a></td></tr>
 </table>
 
 
  			<p><p><div align="center"><font color="red" size="+2">Line Maze Results</font></div>
 We had 2 competitors in the Line Maze event.  See video of CD Bot's second run at
-<a href="http://www.youtube.com/watch?v=Wjqy3yRFoz8" target="_blank">You Tube</a>.
+<a href="https://www.youtube.com/watch?v=Wjqy3yRFoz8" target="_blank">You Tube</a>.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td><td align="center"><b>Time</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">CD Bot</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">35.55 seconds</td></tr>
-<tr><td align="center"></td><td align="center">Puck</td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">DNF</td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">CD Bot</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=1">Byon Garrabrant</a></td><td align="center">35.55 seconds</td></tr>
+<tr><td align="center"></td><td align="center">Puck</td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=22">Paul Grayson</a></td><td align="center">DNF</td></tr>
 </table>
 
 
@@ -85,7 +85,7 @@ We had 2 competitors in the Line Maze event.  See video of CD Bot's second run a
 We only had one entrant, but it was able to handle the course.
 <table>
 <tr><td align="center"></td><td align="center"><b>Robot</b></td><td align="center"><b>Builder</b></td></tr>
-<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Road Rage</a></td><td align="center"><a href="http://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center"></td></tr>
+<tr><td align="center"><b><font color="red">1st Place</font></b></td><td align="center">Road Rage</a></td><td align="center"><a href="https://www.lvbots.org/gallery/member.php?id=10">Jan Malasek</a></td><td align="center"></td></tr>
 </table>
 
 
